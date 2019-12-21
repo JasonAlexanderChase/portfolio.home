@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 3240" style="enable-background:new 0 0 1920 3240;" xml:space="preserve">
+<style type="text/css">
+ .body {
+             fill: #0F0837;
+			 opacity: 1 !important;
+             width: 100%;
+             min-height: 100%
+        }
+         .st0 {
+             animation: object-0 100s linear normal infinite;
+             fill: #F24405;
+         }
+
+         .st1 {
+             animation: object-1 100s linear infinite;
+             transform: translate(0px, 0px);
+             fill: #F24405;
+             
+         }
+
+         .st2 {
+             animation: object-2 140s linear alternate infinite;
+             fill: rgb(212, 25, 181);
+         }
+
+         .st3 {
+             animation: object-3 160s linear forwards infinite;
+             transform: translate(0px, 0px);
+             fill: rgb(212, 25, 181);
+             
+         }
+
+         .st4 {
+             fill: rgb(71, 157, 255);
+             animation: object-4 150s linear reverse infinite;
+             transform: translate(0px, 0px);
+             
+         }
+
+         .st5 {
+             animation: object-5 140s linear alternate infinite;
+             transform: translate(0px, 0px);
+             fill: #F24405;
+             
+         }
+
+         .st0,
+         .st2 {
+             transform: translate(0px, 0px);
+             fill: yellow;
+             
+         }
+
+         .st77 {
+             animation: object-0 170s linear normal infinite;
+             fill: #F24405;
+         }
+
+         .st66 {
+             animation: object-1 180s linear infinite;
+             transform: translate(0px, 0px);
+             fill: rgb(255, 255, 255);
+             ;
+             
+         }
+
+         .st55 {
+             animation: object-2 150s linear alternate infinite;
+             fill: rgb(212, 25, 181);
+         }
+
+         .st44 {
+             animation: object-3 110s linear forwards infinite;
+             transform: translate(0px, 0px);
+             fill: rgb(212, 25, 181);
+             
+         }
+                  .st144 {
+             animation: object-3 110s linear forwards infinite;
+             <!-- transform: translate(0px, 0px); -->
+             fill: rgb(212, 25, 181);
+             
+         }
+        .st122 {
+             animation: object-3 110s linear reverse infinite;
+             opacity: .5;
+             transform: translate(0px, 0px);
+             fill: rgb(212, 25, 181);
+             
+         }
+         .st33 {
+             fill: rgb(255, 255, 255);
+             ;
+             animation: object-4 160s linear reverse infinite;
+             transform: translate(0px, 0px);
+             
+         }
+
+         .st22 {
+             animation: object-5 180s linear alternate infinite;
+             transform: translate(0px, 0px);
+             fill: rgb(255, 255, 255);
+                          
+         }
+
+         .st22,
+         .st44 {
+             transform: translate(0px, 0px);
+             fill: rgb(255, 255, 255);
+             
+         }
+
+         @keyframes object-0 {
+             0% {
+                 transform: translate(0px, 0px)
+             }
+
+             25% {
+                 transform: translate(0px, 500px)
+             }
+
+             50% {
+                 transform: translate(0px, -500px)
+             }
+
+             75% {
+                 transform: translate(0px, 500px)
+             }
+
+             100% {
+                 transform: translate(0px, 0px)
+             }
+         }
+
+         @keyframes object-1 {
+             0% {
+                 transform: translate(0px, -1000px)
+             }
+
+             25% {
+                 transform: translate(-500px, -1000px)
+             }
+
+             50% {
+                 transform: translate(-500px, -300px)
+             }
+
+             75% {
+                 transform: translate(0px, -300px)
+             }
+
+             100% {
+                 transform: translate(0px, 1000px)
+             }
+         }
+
+         @keyframes object-2 {
+             0% {
+                 transform: translate(0px, 500px)
+             }
+
+             25% {
+                 transform: translate(0px, 0px)
+             }
+
+             50% {
+                 transform: translate(0px, -500px)
+             }
+
+             75% {
+                 transform: translate(0px, 500px)
+             }
+
+             100% {
+                 transform: translate(0px, 0px)
+             }
+         }
+
+         @keyframes object-3 {
+             0% {
+                 transform: translate(0px, 0px)
+             }
+
+             25% {
+                 transform: translate(700px, 0px)
+             }
+
+             50% {
+                 transform: translate(700px, 500px)
+             }
+
+             75% {
+                 transform: translate(0px, 500px)
+             }
+
+             100% {
+                 transform: translate(0px, 0px)
+             }
+         }
+
+         @keyframes object-4 {
+             0% {
+                 transform: translate(0px, 0px)
+             }
+
+             25% {
+                 transform: translate(-800px, 0px)
+             }
+
+             50% {
+                 transform: translate(-800px, 500px)
+             }
+
+             75% {
+                 transform: translate(-800px, 0px)
+             }
+
+             100% {
+                 transform: translate(0px, 0px)
+             }
+         }
+
+         @keyframes object-5 {
+             0% {
+                 transform: translate(200px, -400px)
+             }
+
+             25% {
+                 transform: translate(-1200px, -400px)
+             }
+
+             50% {
+                 transform: translate(-1200px, 400px)
+             }
+
+             75% {
+                 transform: translate(200px, -600px)
+             }
+
+             100% {
+                 transform: translate(0px, -400px)
+             }
+         }
+     </style>
+<desc>Created with Lunacy</desc>
+<rect id="artboard_1" class="BODY" width="1920" height="3240"/>
+<script  type="text/javascript">//<![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// 
+	]]>
+</script>
+<script  type="text/javascript">//<![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// 
+	]]>
+</script>
+<g>
+	<path id="Rectangle" class="body" fill="#322291 !important" d="M8.5,0.5h74c4.4,0,8,3.7,8,8.3v76.3c0,4.6-3.6,8.3-8,8.3h-74c-4.4,0-8-3.7-8-8.3V8.8
+		C0.5,4.2,4.1,0.5,8.5,0.5z"/>
+	<path class="st2" d="M575,712.8H265c-6.6,0-12-5.6-12-12.4V380.6c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C587,707.2,581.6,712.8,575,712.8z M582,700.1V380.9c0-4.1-3.3-7.5-7.3-7.5H265.3c-4,0-7.3,3.4-7.3,7.5v319.2
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C578.7,707.6,582,704.2,582,700.1z"/>
+	<path class="st2" d="M887,1011.9H683c-6.6,0-12-5.6-12-12.4V789.1c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C899,1006.3,893.6,1011.9,887,1011.9z M895.6,1000.9V787.8c0-4.1-3.3-7.5-7.3-7.5H681.7c-4,0-7.3,3.4-7.3,7.5v213.1
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C892.3,1008.4,895.6,1005,895.6,1000.9z"/>
+	<path class="st2" d="M1029,371.3H911c-6.6,0-12-5.6-12-12.4V237.2c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4V359
+		C1041,365.8,1035.6,371.3,1029,371.3z M1038.9,361.6V234.6c0-4.1-3.3-7.5-7.3-7.5H908.4c-4,0-7.3,3.4-7.3,7.5v127
+		c0,4.1,3.3,7.5,7.3,7.5h123.1C1035.6,369.2,1038.9,365.8,1038.9,361.6z"/>
+	<path class="st3" d="M317,224.9H199c-6.6,0-12-5.6-12-12.4V90.8c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4v121.7
+		C329,219.3,323.6,224.9,317,224.9z M326.9,215.2V88.1c0-4.1-3.3-7.5-7.3-7.5H196.4c-4,0-7.3,3.4-7.3,7.5v127c0,4.1,3.3,7.5,7.3,7.5
+		h123.1C323.6,222.7,326.9,219.3,326.9,215.2z"/>
+	<path class="st2" d="M1750,313.6h-204c-6.6,0-12-5.6-12-12.4V90.8c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C1762,308,1756.6,313.6,1750,313.6z M1758.6,302.5V89.4c0-4.1-3.3-7.5-7.3-7.5h-206.6c-4,0-7.3,3.4-7.3,7.5v213.1
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C1755.3,310.1,1758.6,306.7,1758.6,302.5z"/>
+	<path class="st4" d="M1750,1002.6h-310c-6.6,0-12-5.6-12-12.4V670.5c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C1762,997.1,1756.6,1002.6,1750,1002.6z M1757,989.9V670.8c0-4.1-3.3-7.5-7.3-7.5h-309.4c-4,0-7.3,3.4-7.3,7.5v319.2
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C1753.7,997.5,1757,994.1,1757,989.9z"/>
+	<path class="st5" d="M575,712.8H265c-6.6,0-12-5.6-12-12.4V380.6c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C587,707.2,581.6,712.8,575,712.8z M582,700.1V380.9c0-4.1-3.3-7.5-7.3-7.5H265.3c-4,0-7.3,3.4-7.3,7.5v319.2
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C578.7,707.6,582,704.2,582,700.1z"/>
+	<path class="st4" d="M887,1011.9H683c-6.6,0-12-5.6-12-12.4V789.1c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C899,1006.3,893.6,1011.9,887,1011.9z M895.6,1000.9V787.8c0-4.1-3.3-7.5-7.3-7.5H681.7c-4,0-7.3,3.4-7.3,7.5v213.1
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C892.3,1008.4,895.6,1005,895.6,1000.9z"/>
+	<path class="st5" d="M1029,371.3H911c-6.6,0-12-5.6-12-12.4V237.2c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4V359
+		C1041,365.8,1035.6,371.3,1029,371.3z M1038.9,361.6V234.6c0-4.1-3.3-7.5-7.3-7.5H908.4c-4,0-7.3,3.4-7.3,7.5v127
+		c0,4.1,3.3,7.5,7.3,7.5h123.1C1035.6,369.2,1038.9,365.8,1038.9,361.6z"/>
+	<path class="st3" d="M317,224.9H199c-6.6,0-12-5.6-12-12.4V90.8c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4v121.7
+		C329,219.3,323.6,224.9,317,224.9z M326.9,215.2V88.1c0-4.1-3.3-7.5-7.3-7.5H196.4c-4,0-7.3,3.4-7.3,7.5v127c0,4.1,3.3,7.5,7.3,7.5
+		h123.1C323.6,222.7,326.9,219.3,326.9,215.2z"/>
+	<path class="st6" d="M1750,313.6h-204c-6.6,0-12-5.6-12-12.4V90.8c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C1762,308,1756.6,313.6,1750,313.6z M1758.6,302.5V89.4c0-4.1-3.3-7.5-7.3-7.5h-206.6c-4,0-7.3,3.4-7.3,7.5v213.1
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C1755.3,310.1,1758.6,306.7,1758.6,302.5z"/>
+	<path class="st4" d="M1750,1002.6h-310c-6.6,0-12-5.6-12-12.4V670.5c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C1762,997.1,1756.6,1002.6,1750,1002.6z M1757,989.9V670.8c0-4.1-3.3-7.5-7.3-7.5h-309.4c-4,0-7.3,3.4-7.3,7.5v319.2
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C1753.7,997.5,1757,994.1,1757,989.9z"/>
+	<path id="Rectangle_1_" class="st5" d="M1919.5,1122.8v76.3c0,4.6-3.6,8.3-8,8.3h-74c-4.4,0-8-3.7-8-8.3v-76.3c0-4.6,3.6-8.3,8-8.3
+		h74C1915.9,1114.5,1919.5,1118.2,1919.5,1122.8z"/>
+	<path class="st2" d="M1333,1814.4v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8c0,6.8-5.4,12.4-12,12.4h-310
+		C1338.4,1826.8,1333,1821.2,1333,1814.4z M1345.3,1821.7h309.4c4,0,7.3-3.4,7.3-7.5V1495c0-4.1-3.3-7.5-7.3-7.5h-309.4
+		c-4,0-7.3,3.4-7.3,7.5v319.2C1338,1818.3,1341.3,1821.7,1345.3,1821.7z"/>
+	<path class="st2" d="M1021,2113.6v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4c0,6.8-5.4,12.4-12,12.4h-204
+		C1026.4,2126,1021,2120.4,1021,2113.6z M1031.7,2122.4h206.6c4,0,7.3-3.4,7.3-7.5v-213.1c0-4.1-3.3-7.5-7.3-7.5h-206.6
+		c-4,0-7.3,3.4-7.3,7.5v213.1C1024.4,2119,1027.7,2122.4,1031.7,2122.4z"/>
+	<path class="st2" d="M879,1473v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4V1473c0,6.8-5.4,12.4-12,12.4H891
+		C884.4,1485.4,879,1479.8,879,1473z M888.5,1483.1h123.1c4,0,7.3-3.4,7.3-7.5v-127c0-4.1-3.3-7.5-7.3-7.5H888.4
+		c-4,0-7.3,3.4-7.3,7.5v127.1C881.1,1479.8,884.4,1483.2,888.5,1483.1z"/>
+	<path class="st3" d="M1591,1326.5v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4v121.7c0,6.8-5.4,12.4-12,12.4h-118
+		C1596.4,1338.9,1591,1333.3,1591,1326.5z M1600.5,1336.6h123.1c4,0,7.3-3.4,7.3-7.5v-127c0-4.1-3.3-7.5-7.3-7.5h-123.2
+		c-4,0-7.3,3.4-7.3,7.5v127.1C1593.1,1333.3,1596.4,1336.7,1600.5,1336.6z"/>
+	<path class="st2" d="M158,1415.2v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4c0,6.8-5.4,12.4-12,12.4H170
+		C163.4,1427.6,158,1422,158,1415.2z M168.7,1424.1h206.6c4,0,7.3-3.4,7.3-7.5v-213.1c0-4.1-3.3-7.5-7.3-7.5H168.7
+		c-4,0-7.3,3.4-7.3,7.5v213.1C161.4,1420.7,164.7,1424.1,168.7,1424.1z"/>
+	<path class="st4" d="M158,2104.3v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8c0,6.8-5.4,12.4-12,12.4H170
+		C163.4,2116.7,158,2111.1,158,2104.3z M170.3,2111.5h309.4c4,0,7.3-3.4,7.3-7.5v-319.2c0-4.1-3.3-7.5-7.3-7.5H170.3
+		c-4,0-7.3,3.4-7.3,7.5V2104C163,2108.1,166.3,2111.5,170.3,2111.5z"/>
+	<path class="st5" d="M1333,1814.4v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8c0,6.8-5.4,12.4-12,12.4h-310
+		C1338.4,1826.8,1333,1821.2,1333,1814.4z M1345.3,1821.7h309.4c4,0,7.3-3.4,7.3-7.5V1495c0-4.1-3.3-7.5-7.3-7.5h-309.4
+		c-4,0-7.3,3.4-7.3,7.5v319.2C1338,1818.3,1341.3,1821.7,1345.3,1821.7z"/>
+	<path class="st4" d="M1021,2113.6v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4c0,6.8-5.4,12.4-12,12.4h-204
+		C1026.4,2126,1021,2120.4,1021,2113.6z M1031.7,2122.4h206.6c4,0,7.3-3.4,7.3-7.5v-213.1c0-4.1-3.3-7.5-7.3-7.5h-206.6
+		c-4,0-7.3,3.4-7.3,7.5v213.1C1024.4,2119,1027.7,2122.4,1031.7,2122.4z"/>
+	<path class="st5" d="M879,1473v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4V1473c0,6.8-5.4,12.4-12,12.4H891
+		C884.4,1485.4,879,1479.8,879,1473z M888.5,1483.1h123.1c4,0,7.3-3.4,7.3-7.5v-127c0-4.1-3.3-7.5-7.3-7.5H888.4
+		c-4,0-7.3,3.4-7.3,7.5v127.1C881.1,1479.8,884.4,1483.2,888.5,1483.1z"/>
+	<path class="st3" d="M1591,1326.5v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4v121.7c0,6.8-5.4,12.4-12,12.4h-118
+		C1596.4,1338.9,1591,1333.3,1591,1326.5z M1600.5,1336.6h123.1c4,0,7.3-3.4,7.3-7.5v-127c0-4.1-3.3-7.5-7.3-7.5h-123.2
+		c-4,0-7.3,3.4-7.3,7.5v127.1C1593.1,1333.3,1596.4,1336.7,1600.5,1336.6z"/>
+	<path class="st6" d="M158,1415.2v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4c0,6.8-5.4,12.4-12,12.4H170
+		C163.4,1427.6,158,1422,158,1415.2z M168.7,1424.1h206.6c4,0,7.3-3.4,7.3-7.5v-213.1c0-4.1-3.3-7.5-7.3-7.5H168.7
+		c-4,0-7.3,3.4-7.3,7.5v213.1C161.4,1420.7,164.7,1424.1,168.7,1424.1z"/>
+	<path class="st4" d="M158,2104.3v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8c0,6.8-5.4,12.4-12,12.4H170
+		C163.4,2116.7,158,2111.1,158,2104.3z M170.3,2111.5h309.4c4,0,7.3-3.4,7.3-7.5v-319.2c0-4.1-3.3-7.5-7.3-7.5H170.3
+		c-4,0-7.3,3.4-7.3,7.5V2104C163,2108.1,166.3,2111.5,170.3,2111.5z"/>
+	<path id="Rectangle_2_" class="st4" d="M8.5,2228.6h74c4.4,0,8,3.7,8,8.3v76.3c0,4.6-3.6,8.3-8,8.3h-74c-4.4,0-8-3.7-8-8.3v-76.3
+		C0.5,2232.3,4.1,2228.6,8.5,2228.6z"/>
+	<path class="st2" d="M575,2940.9H265c-6.6,0-12-5.6-12-12.4v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C587,2935.3,581.6,2940.9,575,2940.9z M582,2928.2V2609c0-4.1-3.3-7.5-7.3-7.5H265.3c-4,0-7.3,3.4-7.3,7.5v319.2
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C578.7,2935.7,582,2932.3,582,2928.2z"/>
+	<path class="st2" d="M887,3240H683c-6.6,0-12-5.6-12-12.4v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C899,3234.4,893.6,3240,887,3240z M895.6,3229v-213.1c0-4.1-3.3-7.5-7.3-7.5H681.7c-4,0-7.3,3.4-7.3,7.5V3229
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C892.3,3236.5,895.6,3233.1,895.6,3229z"/>
+	<path class="st2" d="M1029,2599.4H911c-6.6,0-12-5.6-12-12.4v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4V2587
+		C1041,2593.9,1035.6,2599.4,1029,2599.4z M1038.9,2589.7v-127.1c0-4.1-3.3-7.5-7.3-7.5H908.4c-4,0-7.3,3.4-7.3,7.5v127
+		c0,4.1,3.3,7.5,7.3,7.5h123.1C1035.6,2597.3,1038.9,2593.9,1038.9,2589.7z"/>
+	<path class="st3" d="M317,2452.9H199c-6.6,0-12-5.6-12-12.4v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4v121.7
+		C329,2447.4,323.6,2452.9,317,2452.9z M326.9,2443.3v-127.1c0-4.1-3.3-7.5-7.3-7.5H196.4c-4,0-7.3,3.4-7.3,7.5v127
+		c0,4.1,3.3,7.5,7.3,7.5h123.1C323.6,2450.8,326.9,2447.4,326.9,2443.3z"/>
+	<path class="st2" d="M1750,2541.7h-204c-6.6,0-12-5.6-12-12.4v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C1762,2536.1,1756.6,2541.7,1750,2541.7z M1758.6,2530.6v-213.1c0-4.1-3.3-7.5-7.3-7.5h-206.6c-4,0-7.3,3.4-7.3,7.5v213.1
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C1755.3,2538.2,1758.6,2534.7,1758.6,2530.6z"/>
+	<path class="st4" d="M1750,3230.7h-310c-6.6,0-12-5.6-12-12.4v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C1762,3225.1,1756.6,3230.7,1750,3230.7z M1757,3218v-319.2c0-4.1-3.3-7.5-7.3-7.5h-309.4c-4,0-7.3,3.4-7.3,7.5V3218
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C1753.7,3225.6,1757,3222.2,1757,3218z"/>
+	<path class="st5" d="M575,2940.9H265c-6.6,0-12-5.6-12-12.4v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C587,2935.3,581.6,2940.9,575,2940.9z M582,2928.2V2609c0-4.1-3.3-7.5-7.3-7.5H265.3c-4,0-7.3,3.4-7.3,7.5v319.2
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C578.7,2935.7,582,2932.3,582,2928.2z"/>
+	<path class="st4" d="M887,3240H683c-6.6,0-12-5.6-12-12.4v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C899,3234.4,893.6,3240,887,3240z M895.6,3229v-213.1c0-4.1-3.3-7.5-7.3-7.5H681.7c-4,0-7.3,3.4-7.3,7.5V3229
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C892.3,3236.5,895.6,3233.1,895.6,3229z"/>
+	<path class="st5" d="M1029,2599.4H911c-6.6,0-12-5.6-12-12.4v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4V2587
+		C1041,2593.9,1035.6,2599.4,1029,2599.4z M1038.9,2589.7v-127.1c0-4.1-3.3-7.5-7.3-7.5H908.4c-4,0-7.3,3.4-7.3,7.5v127
+		c0,4.1,3.3,7.5,7.3,7.5h123.1C1035.6,2597.3,1038.9,2593.9,1038.9,2589.7z"/>
+	<path class="st3" d="M317,2452.9H199c-6.6,0-12-5.6-12-12.4v-121.7c0-6.8,5.4-12.4,12-12.4h118c6.6,0,12,5.6,12,12.4v121.7
+		C329,2447.4,323.6,2452.9,317,2452.9z M326.9,2443.3v-127.1c0-4.1-3.3-7.5-7.3-7.5H196.4c-4,0-7.3,3.4-7.3,7.5v127
+		c0,4.1,3.3,7.5,7.3,7.5h123.1C323.6,2450.8,326.9,2447.4,326.9,2443.3z"/>
+	<path class="st6" d="M1750,2541.7h-204c-6.6,0-12-5.6-12-12.4v-210.4c0-6.8,5.4-12.4,12-12.4h204c6.6,0,12,5.6,12,12.4v210.4
+		C1762,2536.1,1756.6,2541.7,1750,2541.7z M1758.6,2530.6v-213.1c0-4.1-3.3-7.5-7.3-7.5h-206.6c-4,0-7.3,3.4-7.3,7.5v213.1
+		c0,4.1,3.3,7.5,7.3,7.5h206.6C1755.3,2538.2,1758.6,2534.7,1758.6,2530.6z"/>
+	<path class="st4" d="M1750,3230.7h-310c-6.6,0-12-5.6-12-12.4v-319.8c0-6.8,5.4-12.4,12-12.4h310c6.6,0,12,5.6,12,12.4v319.8
+		C1762,3225.1,1756.6,3230.7,1750,3230.7z M1757,3218v-319.2c0-4.1-3.3-7.5-7.3-7.5h-309.4c-4,0-7.3,3.4-7.3,7.5V3218
+		c0,4.1,3.3,7.5,7.3,7.5h309.4C1753.7,3225.6,1757,3222.2,1757,3218z"/>
+</g>
+<script  type="text/javascript">//<![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// 
+	]]>
+</script>
+</svg>
