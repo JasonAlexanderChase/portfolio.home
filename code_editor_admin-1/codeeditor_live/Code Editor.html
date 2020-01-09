@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <title>Code Editor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="Code%20Editor_files/style.css">
+
+
+</head>
+
+<body>
+    <div class="container clearfix">
+        <div class="header" style="color:#000000;">
+ 
+        </div>
+
+
+        <div>
+            <textarea id="html" class="a" onfocus="activate('html')" placeholder="html" style="float: right; width: 13%; height: 1%; position: relative;"></textarea>
+            <textarea id="scss" class="b" onfocus="activate('scss')" placeholder="scss" style="float: right; width: 13%; height: 1%; position: relative;"></textarea>
+            <textarea id="css" class="c" onfocus="activate('css')" placeholder="css" style="width: 13%; height: 1%; float: right; color: rgb(255, 255, 255); font-size: 150%; background: rgb(17, 17, 17) none repeat scroll 0% 0%; position: relative;"></textarea>
+            <textarea id="js" class="d" onfocus="activate('js')" placeholder="js" style="float: right; width: 13%; height: 1%; position: relative;"></textarea>
+            <textarea id="svg" class="e" onfocus="activate('svg')" placeholder="svg" style="float: left; width: 38%; height: 1060px; position: relative; color: rgb(255, 255, 255); font-size: 150%; background: rgb(17, 17, 17) none repeat scroll 0% 0%;"></textarea>
+        </div>
+        <div>
+
+            <iframe id="code" style="width: 58%; height: 860px; margin: 0.6%; float: right;">
+
+                <!-- &lt;hr&gt; -->
+
+
+            </iframe>
+        </div>
+
+        <script type="text/javascript" src="Code%20Editor_files/app.js">
+        </script>
+    </div>
+    <script>
+        function activate(a)
+
+        {
+            //code space
+            document.getElementById(a).style.width = '38%';
+            document.getElementById(a).style.height = '1060px';
+            document.getElementById(a).style.float = 'left';
+            document.getElementById(a).style.color = '#ffffff';
+            document.getElementById(a).style.fontSize = '150%';
+            document.getElementById(a).style.background = '#111111';
+            document.getElementById(a).style.outline = '1px solid #03cdff;';
+            //rendered space
+            document.getElementById('code').style.width = '58%';
+            document.getElementById('code').style.height = '860px';
+            document.getElementById('code').style.marginTop = '-980px';
+            document.getElementById('code').style.marginLeft = '39.5%';
+            document.getElementById('code').style.margin = '.6%';
+            document.getElementById('code').style.float = 'right';
+
+            collapseAllExcept(a);
+        };
+
+        function collapseAllExcept(b) {
+            var c = b;
+            var board = ["html", "scss", "css", "js", "svg"];
+            board.splice(board.indexOf(c), 1);
+            for (var i = 0; i < board.length; i++) {
+                document.getElementById(board[i]).style.background = '#11112';
+                document.getElementById(board[i]).style.float = 'right';
+                document.getElementById(board[i]).style.width = '13%';
+                document.getElementById('code').style.margin = '.6';
+                document.getElementById(board[i]).style.height = '1%';
+                document.getElementById(board[i]).style.position = 'relative'
+                //document.getElementById(board[i]).style.fontSize = '99%';
+                document.getElementById(board[i]).placeholder = board[i];
+                document.getElementById(board[i]).writingMode = 'vertical-rl';
+            };
+        };
+
+    
+    </script>
+
+    <link rel="stylesheet" title="Default" href="Code%20Editor_files/default.css">
+    <link rel="alternate stylesheet" title="A 11 Y Dark" href="Code%20Editor_files/a11y-dark.css">
+    <link rel="alternate stylesheet" title="A 11 Y Light" href="Code%20Editor_files/a11y-light.css">
+    <link rel="alternate stylesheet" title="Agate" href="Code%20Editor_files/agate.css">
+    <link rel="alternate stylesheet" title="An Old Hope" href="Code%20Editor_files/an-old-hope.css">
+    <link rel="alternate stylesheet" title="Androidstudio" href="Code%20Editor_files/androidstudio.css">
+    <link rel="alternate stylesheet" title="Arduino Light" href="Code%20Editor_files/arduino-light.css">
+    <link rel="alternate stylesheet" title="Arta" href="Code%20Editor_files/arta.css">
+    <link rel="alternate stylesheet" title="Ascetic" href="Code%20Editor_files/ascetic.css">
+    <link rel="alternate stylesheet" title="Atelier Cave Dark" href="Code%20Editor_files/atelier-cave-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Cave Light" href="Code%20Editor_files/atelier-cave-light.css">
+    <link rel="alternate stylesheet" title="Atelier Dune Dark" href="Code%20Editor_files/atelier-dune-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Dune Light" href="Code%20Editor_files/atelier-dune-light.css">
+    <link rel="alternate stylesheet" title="Atelier Estuary Dark" href="Code%20Editor_files/atelier-estuary-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Estuary Light" href="Code%20Editor_files/atelier-estuary-light.css">
+    <link rel="alternate stylesheet" title="Atelier Forest Dark" href="Code%20Editor_files/atelier-forest-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Forest Light" href="Code%20Editor_files/atelier-forest-light.css">
+    <link rel="alternate stylesheet" title="Atelier Heath Dark" href="Code%20Editor_files/atelier-heath-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Heath Light" href="Code%20Editor_files/atelier-heath-light.css">
+    <link rel="alternate stylesheet" title="Atelier Lakeside Dark" href="Code%20Editor_files/atelier-lakeside-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Lakeside Light" href="Code%20Editor_files/atelier-lakeside-light.css">
+    <link rel="alternate stylesheet" title="Atelier Plateau Dark" href="Code%20Editor_files/atelier-plateau-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Plateau Light" href="Code%20Editor_files/atelier-plateau-light.css">
+    <link rel="alternate stylesheet" title="Atelier Savanna Dark" href="Code%20Editor_files/atelier-savanna-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Savanna Light" href="Code%20Editor_files/atelier-savanna-light.css">
+    <link rel="alternate stylesheet" title="Atelier Seaside Dark" href="Code%20Editor_files/atelier-seaside-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Seaside Light" href="Code%20Editor_files/atelier-seaside-light.css">
+    <link rel="alternate stylesheet" title="Atelier Sulphurpool Dark" href="Code%20Editor_files/atelier-sulphurpool-dark.css">
+    <link rel="alternate stylesheet" title="Atelier Sulphurpool Light" href="Code%20Editor_files/atelier-sulphurpool-light.css">
+    <link rel="alternate stylesheet" title="Atom One Dark Reasonable" href="Code%20Editor_files/atom-one-dark-reasonable.css">
+    <link rel="alternate stylesheet" title="Atom One Dark" href="Code%20Editor_files/atom-one-dark.css">
+    <link rel="alternate stylesheet" title="Atom One Light" href="Code%20Editor_files/atom-one-light.css">
+    <link rel="alternate stylesheet" title="Brown Paper" href="Code%20Editor_files/brown-paper.css">
+    <link rel="alternate stylesheet" title="Codepen Embed" href="Code%20Editor_files/codepen-embed.css">
+    <link rel="alternate stylesheet" title="Color Brewer" href="Code%20Editor_files/color-brewer.css">
+    <link rel="alternate stylesheet" title="Darcula" href="Code%20Editor_files/darcula.css">
+    <link rel="alternate stylesheet" title="Dark" href="Code%20Editor_files/dark.css">
+    <link rel="alternate stylesheet" title="Darkula" href="Code%20Editor_files/darkula.css">
+    <link rel="alternate stylesheet" title="Docco" href="Code%20Editor_files/docco.css">
+    <link rel="alternate stylesheet" title="Dracula" href="Code%20Editor_files/dracula.css">
+    <link rel="alternate stylesheet" title="Far" href="Code%20Editor_files/far.css">
+    <link rel="alternate stylesheet" title="Foundation" href="Code%20Editor_files/foundation.css">
+    <link rel="alternate stylesheet" title="Github Gist" href="Code%20Editor_files/github-gist.css">
+    <link rel="alternate stylesheet" title="Github" href="Code%20Editor_files/github.css">
+    <link rel="alternate stylesheet" title="Gml" href="Code%20Editor_files/gml.css">
+    <link rel="alternate stylesheet" title="Googlecode" href="Code%20Editor_files/googlecode.css">
+    <link rel="alternate stylesheet" title="Grayscale" href="Code%20Editor_files/grayscale.css">
+    <link rel="alternate stylesheet" title="Gruvbox Dark" href="Code%20Editor_files/gruvbox-dark.css">
+    <link rel="alternate stylesheet" title="Gruvbox Light" href="Code%20Editor_files/gruvbox-light.css">
+    <link rel="alternate stylesheet" title="Hopscotch" href="Code%20Editor_files/hopscotch.css">
+    <link rel="alternate stylesheet" title="Hybrid" href="Code%20Editor_files/hybrid.css">
+    <link rel="alternate stylesheet" title="Idea" href="Code%20Editor_files/idea.css">
+    <link rel="alternate stylesheet" title="Ir Black" href="Code%20Editor_files/ir-black.css">
+    <link rel="alternate stylesheet" title="Isbl Editor Dark" href="Code%20Editor_files/isbl-editor-dark.css">
+    <link rel="alternate stylesheet" title="Isbl Editor Light" href="Code%20Editor_files/isbl-editor-light.css">
+    <link rel="alternate stylesheet" title="Kimbie Dark" href="Code%20Editor_files/kimbie.css">
+    <link rel="alternate stylesheet" title="Kimbie Light" href="Code%20Editor_files/kimbie_002.css">
+    <link rel="alternate stylesheet" title="Lightfair" href="Code%20Editor_files/lightfair.css">
+    <link rel="alternate stylesheet" title="Magula" href="Code%20Editor_files/magula.css">
+    <link rel="alternate stylesheet" title="Mono Blue" href="Code%20Editor_files/mono-blue.css">
+    <link rel="alternate stylesheet" title="Monokai Sublime" href="Code%20Editor_files/monokai-sublime.css">
+    <link rel="alternate stylesheet" title="Monokai" href="Code%20Editor_files/monokai.css">
+    <link rel="alternate stylesheet" title="Nord" href="Code%20Editor_files/nord.css">
+    <link rel="alternate stylesheet" title="Obsidian" href="Code%20Editor_files/obsidian.css">
+    <link rel="alternate stylesheet" title="Ocean" href="Code%20Editor_files/ocean.css">
+    <link rel="alternate stylesheet" title="Paraiso Dark" href="Code%20Editor_files/paraiso-dark.css">
+    <link rel="alternate stylesheet" title="Paraiso Light" href="Code%20Editor_files/paraiso-light.css">
+    <link rel="alternate stylesheet" title="Pojoaque" href="Code%20Editor_files/pojoaque.css">
+    <link rel="alternate stylesheet" title="Purebasic" href="Code%20Editor_files/purebasic.css">
+    <link rel="alternate stylesheet" title="Qtcreator Dark" href="Code%20Editor_files/qtcreator_dark.css">
+    <link rel="alternate stylesheet" title="Qtcreator Light" href="Code%20Editor_files/qtcreator_light.css">
+    <link rel="alternate stylesheet" title="Railscasts" href="Code%20Editor_files/railscasts.css">
+    <link rel="alternate stylesheet" title="Rainbow" href="Code%20Editor_files/rainbow.css">
+    <link rel="alternate stylesheet" title="Routeros" href="Code%20Editor_files/routeros.css">
+    <link rel="alternate stylesheet" title="School Book" href="Code%20Editor_files/school-book.css">
+    <link rel="alternate stylesheet" title="Shades Of Purple" href="Code%20Editor_files/shades-of-purple.css">
+    <link rel="alternate stylesheet" title="Solarized Dark" href="Code%20Editor_files/solarized-dark.css">
+    <link rel="alternate stylesheet" title="Solarized Light" href="Code%20Editor_files/solarized-light.css">
+    <link rel="alternate stylesheet" title="Sunburst" href="Code%20Editor_files/sunburst.css">
+    <link rel="alternate stylesheet" title="Tomorrow Night Blue" href="Code%20Editor_files/tomorrow-night-blue.css">
+    <link rel="alternate stylesheet" title="Tomorrow Night Bright" href="Code%20Editor_files/tomorrow-night-bright.css">
+    <link rel="alternate stylesheet" title="Tomorrow Night Eighties" href="Code%20Editor_files/tomorrow-night-eighties.css">
+    <link rel="alternate stylesheet" title="Tomorrow Night" href="Code%20Editor_files/tomorrow-night.css">
+    <link rel="alternate stylesheet" title="Tomorrow" href="Code%20Editor_files/tomorrow.css">
+    <link rel="alternate stylesheet" title="Vs" href="Code%20Editor_files/vs.css">
+    <link rel="alternate stylesheet" title="Vs 2015" href="Code%20Editor_files/vs2015.css">
+    <link rel="alternate stylesheet" title="Xcode" href="Code%20Editor_files/xcode.css">
+    <link rel="alternate stylesheet" title="Xt 256" href="Code%20Editor_files/xt256.css">
+    <link rel="alternate stylesheet" title="Zenburn" href="Code%20Editor_files/zenburn.css">
+
+
+
+</body></html>
